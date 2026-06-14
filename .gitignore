@@ -1,0 +1,27 @@
+# Vivado/XSim generated output
+sim/xsim.dir/
+sim/xsim.covdb/
+sim/*.wdb
+sim/*.log
+sim/*.pb
+sim/*.dmp
+sim/dfx_runtime.txt
+
+# Vivado journals and generated artifacts
+*.jou
+*.str
+*.cache/
+*.hw/
+*.ip_user_files/
+*.runs/
+*.sim/
+
+# Local reports
+SUB-ID-*_plag-report.pdf
+SUB-ID-*_ai-report.pdf
+
+# OS/editor files
+.DS_Store
+Thumbs.db
+*.swp
+*~
