@@ -1,0 +1,18 @@
+cff-version: 1.2.0
+message: "If you use this repository, please cite the associated paper."
+title: "ARMv8-M PACBTI and TrustZone UVM Verification Environment"
+authors:
+  - family-names: "Dhulipala"
+    given-names: "Yagna Deepak"
+year: 2026
+repository-code: "https://github.com/yagnadeepak/armv8m-pacbti-uvm-verification"
+abstract: "A UVM 1.2 functional verification environment for a simplified ARMv8-M PACBTI and TrustZone security architecture mock design."
+preferred-citation:
+  type: conference-paper
+  title: "A UVM 1.2 Verification Environment for ARMv8-M PACBTI and TrustZone Security Architecture: Implementation and Coverage Analysis"
+  authors:
+    - family-names: "Dhulipala"
+      given-names: "Yagna Deepak"
+  conference:
+    name: "2026 IEEE 6th International Conference on VLSI Systems, Architecture, Technology and Applications (VLSI SATA)"
+  year: 2026
