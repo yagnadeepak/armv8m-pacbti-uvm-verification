@@ -94,6 +94,9 @@ cd sim
 vivado -mode batch -source regress.tcl
 ```
 
+The regression script compiles the RTL/testbench first, then elaborates and runs
+each test snapshot.
+
 A successful test reports:
 
 ```text
