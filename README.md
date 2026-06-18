@@ -9,6 +9,25 @@ AHB-Lite transfers using AMD Vivado XSim.
 > an architecturally compliant PAC implementation. The current mock DUT uses a
 > lightweight XOR-based PAC model.
 
+## Publication Status
+
+This project is associated with the accepted conference paper:
+
+```text
+A UVM 1.2 Verification Environment for ARMv8-M PACBTI and TrustZone Security
+Architecture: Implementation and Coverage Analysis
+```
+
+Paper ID `749` was accepted for presentation at the 2026 IEEE 6th International
+Conference on VLSI Systems, Architecture, Technology and Applications
+(VLSI SATA 2026), according to the conference acceptance notification.
+
+The IEEE copyright and consent form for the paper was completed by Yagna Deepak
+Dhulipala on `11-05-2026`. Copyright for the paper has therefore been
+transferred to IEEE under the terms of the IEEE copyright form. This repository
+contains the SystemVerilog/UVM project files only; it does not redistribute the
+IEEE paper manuscript or copyright form.
+
 ## Project Structure
 
 ```text
