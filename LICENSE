@@ -1,20 +1,42 @@
-Research and Educational Source License
+Research Viewing and Reference License
 
 Copyright (c) 2026 Yagna Deepak Dhulipala
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+All rights reserved except as expressly stated below.
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
+This repository is made publicly available for academic viewing, personal
+educational review, and reference in connection with the associated research
+work.
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+Permitted uses:
+
+1. You may view, clone, and run the source code for personal educational review.
+2. You may cite this repository and the associated paper, provided proper
+   attribution is given to the author.
+
+Restrictions:
+
+1. You may not redistribute, republish, sublicense, sell, or otherwise transfer
+   copies of this repository or substantial portions of it.
+2. You may not modify, adapt, extend, or create derivative works based on this
+   repository without prior written permission from the author.
+3. You may not use this repository, its design, implementation, verification
+   environment, results, or derivatives as the basis for another paper, thesis,
+   report, publication, or research project without prior written permission
+   from the author.
+4. You may not incorporate this repository or substantial portions of it into
+   another public or private project without prior written permission from the
+   author.
+5. You may not use this repository for commercial purposes without prior written
+   permission from the author.
+
+The associated IEEE paper manuscript, IEEE copyright form, and any
+IEEE-published version of the paper are not licensed by this repository. Those
+materials are governed by the applicable IEEE copyright and publication terms.
+
+THE SOURCE CODE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
 IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+FITNESS FOR A PARTICULAR PURPOSE, NONINFRINGEMENT, OR ACCURACY. IN NO EVENT
+SHALL THE AUTHOR BE LIABLE FOR ANY CLAIM, DAMAGES, OR OTHER LIABILITY ARISING
+FROM, OUT OF, OR IN CONNECTION WITH THE SOURCE CODE OR THE USE OF THE SOURCE
+CODE.

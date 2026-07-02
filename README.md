@@ -142,8 +142,14 @@ UVM_FATAL : 0
 
 ## License
 
-The SystemVerilog/UVM source code in this repository is released under the
-Research and Educational Source License. See [`LICENSE`](LICENSE).
+This repository is source-available for academic viewing, personal educational
+review, and reference only under the
+[`Research Viewing and Reference License`](LICENSE).
+
+You may view, clone, and run the code for personal educational review. You may
+not redistribute, modify, extend, create derivative works, or use this repository
+as the basis for another paper, thesis, report, publication, or research project
+without prior written permission from the author.
 
 This license applies to the repository source files only. It does not apply to
 the associated IEEE paper manuscript, IEEE copyright form, or any IEEE-published
